@@ -1,0 +1,634 @@
+Product,Price,Actual Price,Rating,Reviews,RAM (GB),ROM (GB),Company
+"vivo T3 Pro 5G (Sandstone Orange, 256 GB)",24999,31999.0,4.548,3371.0,8.0,256.0,vivo
+"vivo V50 5G (Rose Red, 256 GB)",36999,42999.0,4.6536,75.0,8.0,256.0,vivo
+"Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",20999,25999.0,4.51,6672.0,8.0,128.0,Motorola
+"POCO C61 (Mystical Green, 64 GB)",5899,8999.0,4.281,3415.0,4.0,64.0,POCO
+"POCO C75 5G (Aqua Bliss, 64 GB)",7999,10999.0,4.318,1088.0,4.0,64.0,POCO
+"Motorola g45 5G (Brilliant Blue, 128 GB)",11999,14999.0,4.41,5698.0,8.0,128.0,Motorola
+"Motorola G85 5G (Viva Magenta, 128 GB)",17999,20999.0,4.41,7891.0,8.0,128.0,Motorola
+"realme P2 Pro 5G (Parrot Green, 256 GB)",19999,27999.0,4.47,627.0,12.0,256.0,realme
+"Motorola Edge 50 Fusion (Hot Pink, 128 GB)",20999,25999.0,4.51,6672.0,8.0,128.0,Motorola
+"realme C63 5G Charger in the Box (Forest Green, 128 GB)",10999,13999.0,4.514,433.0,6.0,128.0,realme
+"MOTOROLA g35 5G (Leaf Green, 128 GB)",9999,12499.0,4.221,1895.0,4.0,128.0,MOTOROLA
+"Motorola Edge 50 Fusion (Forest Blue, 128 GB)",20999,25999.0,4.51,6672.0,8.0,128.0,Motorola
+"Motorola G85 5G (Olive Green, 128 GB)",17999,20999.0,4.41,7891.0,8.0,128.0,Motorola
+"POCO C75 5G (Silver Stardust, 64 GB)",7999,10999.0,4.318,1088.0,4.0,64.0,POCO
+"Motorola Edge 50 Fusion (Forest Blue, 256 GB)",24999,27999.0,4.41,8413.0,12.0,256.0,Motorola
+"Motorola G85 5G (Cobalt Blue, 128 GB)",17999,20999.0,4.41,7891.0,8.0,128.0,Motorola
+"realme P2 Pro 5G (Eagle Grey, 256 GB)",19999,27999.0,4.47,627.0,12.0,256.0,realme
+"realme C63 5G Charger in the Box (Starry Gold, 128 GB)",10999,13999.0,4.514,433.0,6.0,128.0,realme
+"SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)",6499,9999.0,4.236,2127.0,4.0,64.0,SAMSUNG
+"Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)",24999,27999.0,4.41,8413.0,12.0,256.0,Motorola
+"MOTOROLA g05 (Forest Green, 64 GB)",6999,9999.0,4.31,869.0,4.0,64.0,MOTOROLA
+"POCO C61 (Ethereal Blue, 64 GB)",5899,8999.0,4.281,3415.0,4.0,64.0,POCO
+"Motorola Edge 50 Fusion (Hot Pink, 256 GB)",24999,27999.0,4.41,8413.0,12.0,256.0,Motorola
+"Motorola g45 5G (Viva Magenta, 128 GB)",11999,14999.0,4.41,5698.0,8.0,128.0,Motorola
+"OnePlus Nord CE4 (Celadon Marble, 128 GB)",22998,24999.0,4.519,1112.0,8.0,128.0,OnePlus
+"vivo V50 5G (Titanium Grey, 256 GB)",36999,42999.0,4.6536,75.0,8.0,256.0,vivo
+"realme C63 5G Charger in the Box (Starry Gold, 128 GB)",10999,12999.0,4.44,205.0,4.0,128.0,realme
+"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",15430,19999.0,4.41,8240.0,8.0,128.0,OnePlus
+"MOTOROLA g35 5G (Midnight Black, 128 GB)",9999,12499.0,4.221,1895.0,4.0,128.0,MOTOROLA
+"Motorola Edge 50 Fusion (Forest Green, 128 GB)",20999,25999.0,4.51,6672.0,8.0,128.0,Motorola
+"MOTOROLA g35 5G (Guava Red, 128 GB)",9999,12499.0,4.221,1895.0,4.0,128.0,MOTOROLA
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Violet, 128 GB)",12999,16999.0,4.51,4998.0,6.0,128.0,OPPO
+"OnePlus Nord CE4 (Dark Chrome, 128 GB)",22595,24999.0,4.519,1112.0,8.0,128.0,OnePlus
+"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",15865,19999.0,4.41,8240.0,8.0,128.0,OnePlus
+"realme P1 5G (Phoenix Red, 128 GB)",13999,20999.0,4.488,5229.0,6.0,128.0,realme
+"Motorola G85 5G (Olive Green, 256 GB)",19999,22999.0,4.456,3149.0,12.0,256.0,Motorola
+"realme C61 (Marble Black, 64 GB)",7699,8999.0,4.34,188.0,4.0,64.0,realme
+"POCO M6 Plus 5G (Ice Silver, 128 GB)",10999,15999.0,4.227,1710.0,6.0,128.0,POCO
+"realme P1 5G (Feather Blue, 128 GB)",13999,20999.0,4.488,5229.0,6.0,128.0,realme
+"Motorola g45 5G (Brilliant Green, 128 GB)",11999,14999.0,4.41,5698.0,8.0,128.0,Motorola
+"POCO C61  - Locked with Airtel Prepaid (Diamond Dust Black, 64 GB)",5399,8999.0,4.281,3415.0,4.0,64.0,POCO
+"realme C61 (Safari Green, 128 GB)",8199,10999.0,4.41,351.0,6.0,128.0,realme
+"CMF by Nothing Phone 1 (Light Green, 128 GB)",15499,19999.0,4.465,4763.0,6.0,128.0,CMF
+"realme C63 5G Charger in the Box (Forest Green, 128 GB)",10999,12999.0,4.44,205.0,4.0,128.0,realme
+"Motorola g45 5G (Pink Lavender, 128 GB)",11999,14999.0,4.41,5698.0,8.0,128.0,Motorola
+"MOTOROLA g05 (Plum Red, 64 GB)",6999,9999.0,4.31,869.0,4.0,64.0,MOTOROLA
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)",11999,17999.0,4.26,426.0,8.0,128.0,POCO
+"CMF by Nothing Phone 1 (Light Green, 128 GB)",17499,21999.0,4.421,1472.0,8.0,128.0,CMF
+"realme C61 (Marble Black, 128 GB)",7984,10999.0,4.41,351.0,6.0,128.0,realme
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",13440,19999.0,4.25,318.0,8.0,128.0,REDMI
+"CMF by Nothing Phone 1 (Blue, 128 GB)",15499,19999.0,4.465,4763.0,6.0,128.0,CMF
+"CMF by Nothing Phone 1 (Orange, 128 GB)",15499,19999.0,4.465,4763.0,6.0,128.0,CMF
+"POCO C75 5G (Enchanted Green, 64 GB)",7999,10999.0,4.318,1088.0,4.0,64.0,POCO
+"Motorola g45 5G (Viva Magenta, 128 GB)",10999,12999.0,4.328,1900.0,4.0,128.0,Motorola
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Breeze Blue, 128 GB)",12999,16999.0,4.51,4998.0,6.0,128.0,OPPO
+"realme 14 Pro+ 5G (Bikaner Purple, 128 GB)",29999,33999.0,4.42,532.0,8.0,128.0,realme
+"Motorola g45 5G (Brilliant Green, 128 GB)",10999,12999.0,4.328,1900.0,4.0,128.0,Motorola
+"IQOO Z9s 5G (Onyx Green, 128 GB)",19756,25999.0,4.42,163.0,8.0,128.0,IQOO
+"Motorola Edge 50 Fusion (Forest Green, 256 GB)",24999,27999.0,4.41,8413.0,12.0,256.0,Motorola
+"Motorola g64 5G (Ice Lilac, 128 GB)",13999,17999.0,4.345,2922.0,8.0,128.0,Motorola
+"realme C61 (Safari Green, 64 GB)",7699,8999.0,4.34,188.0,4.0,64.0,realme
+"Motorola Edge 50 Pro 5G with 125W Charger (Caneel Bay, 256 GB)",29999,41999.0,4.456,3762.0,12.0,256.0,Motorola
+"realme P1 5G (Peacock Green, 128 GB)",13999,20999.0,4.488,5229.0,6.0,128.0,realme
+"vivo T3x 5G (Celestial Green, 128 GB)",13999,18999.0,4.51,5301.0,6.0,128.0,vivo
+"CMF by Nothing Phone 1 (Black, 128 GB)",15499,19999.0,4.465,4763.0,6.0,128.0,CMF
+"Motorola g64 5G (Ice Lilac, 256 GB)",15999,19999.0,4.269,4500.0,12.0,256.0,Motorola
+"CMF by Nothing Phone 1 (Black, 128 GB)",17499,21999.0,4.421,1472.0,8.0,128.0,CMF
+"Infinix GT 20 Pro (Mecha Silver, 256 GB)",22999,31999.0,4.413,1071.0,8.0,256.0,Infinix
+"vivo V50 5G (Starry Night, 256 GB)",36999,42999.0,4.6536,75.0,8.0,256.0,vivo
+"vivo T3x 5G (Sapphire Blue, 128 GB)",13999,18999.0,4.51,5301.0,6.0,128.0,vivo
+"Motorola g64 5G (Mint Green, 256 GB)",15999,19999.0,4.269,4500.0,12.0,256.0,Motorola
+"Motorola G85 5G (Viva Magenta, 256 GB)",19999,22999.0,4.456,3149.0,12.0,256.0,Motorola
+"Infinix Note 40X 5G (Starlit Black, 256 GB)",13999,21999.0,4.325,1706.0,12.0,256.0,Infinix
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",12499,17999.0,4.324,1282.0,6.0,128.0,REDMI
+"OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)",18793,20999.0,4.411,578.0,8.0,128.0,OnePlus
+"MOTOROLA Edge 50 (Koala Grey, 256 GB)",21999,32999.0,4.322,1632.0,8.0,256.0,MOTOROLA
+"Motorola G85 5G (Cobalt Blue, 256 GB)",19999,22999.0,4.456,3149.0,12.0,256.0,Motorola
+"REDMI 13C 5G (Starlight Black, 128 GB)",9999,13999.0,4.341,1687.0,4.0,128.0,REDMI
+"Motorola g64 5G (Mint Green, 128 GB)",13999,17999.0,4.345,2922.0,8.0,128.0,Motorola
+"realme Narzo N65 5G (Amber Gold, 128 GB)",11025,14999.0,4.33,182.0,6.0,128.0,realme
+"realme Narzo N61 (Marble Black, 64 GB)",7613,8999.0,4.33,165.0,4.0,64.0,realme
+"Infinix SMART 9 HD (Metallic Black, 64 GB)",6699,8999.0,4.2394,35.0,3.0,64.0,Infinix
+"realme Narzo N61 (Voyage Blue, 128 GB)",8500,9262.0,4.21,46.0,6.0,128.0,realme
+"POCO M7 Pro 5G (Lavender Frost, 128 GB)",13999,18999.0,4.34,500.0,6.0,128.0,POCO
+"REDMI 13 5G (Black Diamond, 128 GB)",13999,19999.0,4.25,318.0,8.0,128.0,REDMI
+"Nothing Phone (2a) Plus (Grey, 256 GB)",27499,29999.0,4.411,821.0,8.0,256.0,Nothing
+"OnePlus 13R 5g (Astral Trail, 256 GB)",42400,44999.0,4.5337,34.0,12.0,256.0,OnePlus
+"Tecno Spark Go 1 (Magic Skin Green, 64 GB)",6876,8599.0,4.332,22.0,3.0,64.0,Tecno
+"REDMI 13c 5G (Startrail Green, 128 GB)",11014,15999.0,4.335,1536.0,6.0,128.0,REDMI
+"vivo T3x 5G (Celestial Green, 128 GB)",12499,17499.0,4.451,2048.0,4.0,128.0,vivo
+"realme C63 5G (Forest Green, 128 GB)",11284,14999.0,4.52,104.0,8.0,128.0,realme
+"Infinix Hot 50 5G (Sage Green, 128 GB)",10999,14999.0,4.412,923.0,8.0,128.0,Infinix
+"realme P1 5G (Feather Blue, 128 GB)",14999,21999.0,4.445,2571.0,8.0,128.0,realme
+"OnePlus Nord CE4 (Celadon Marble, 256 GB)",24700,26999.0,4.519,1112.0,8.0,256.0,OnePlus
+"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Violet, 256 GB)",15999,18999.0,4.417,792.0,8.0,256.0,OPPO
+"realme 70 TURBO 5G (Turbo Purple, 128 GB)",15170,19999.0,4.32,211.0,6.0,128.0,realme
+"realme C63 5G Charger in the Box (Forest Green, 128 GB)",12999,14999.0,4.52,104.0,8.0,128.0,realme
+"Motorola g64 5G (Berry Red, 128 GB)",13999,17999.0,4.345,2922.0,8.0,128.0,Motorola
+"realme P2 Pro 5G (Eagle Grey, 512 GB)",22999,30999.0,4.47,627.0,12.0,512.0,realme
+"Motorola g64 5G (Pearl Blue, 128 GB)",13999,17999.0,4.345,2922.0,8.0,128.0,Motorola
+"Tecno Spark Go 1 (Startrail Black, 64 GB)",7290,8999.0,4.33,177.0,4.0,64.0,Tecno
+"OnePlus Nord 4 5G (Obsidian Midnight, 128 GB)",27886,29999.0,4.41,85.0,8.0,128.0,OnePlus
+"realme GT 6 (Razor Green, 512 GB)",37999,51999.0,4.53,412.0,16.0,512.0,realme
+"realme C61 (Safari Green, 128 GB)",8105,10999.0,4.41,351.0,6.0,128.0,realme
+"Motorola g64 5G (Berry Red, 256 GB)",15999,19999.0,4.269,4500.0,12.0,256.0,Motorola
+"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)",21799,22025.0,4.41,8240.0,8.0,256.0,OnePlus
+"realme Narzo N61 (Marble Black, 128 GB)",8980,9525.0,4.21,46.0,6.0,128.0,realme
+"vivo T3 Pro 5G (Emerald Green, 128 GB)",22999,29999.0,4.548,3371.0,8.0,128.0,vivo
+"Motorola Edge 50 Pro 5G with 68W Charger (Luxe Lavender, 256 GB)",27999,36999.0,4.433,2959.0,8.0,256.0,Motorola
+"vivo T3 5G (Crystal Flake, 256 GB)",19999,24999.0,4.41,6891.0,8.0,256.0,vivo
+"realme P1 5G (Phoenix Red, 128 GB)",14999,21999.0,4.445,2571.0,8.0,128.0,realme
+"REDMI A4 5G only on Jio SIM (Starry Black, 64 GB)",9080,10999.0,4.32,159.0,4.0,64.0,REDMI
+"POCO C61 (Diamond Dust Black, 128 GB)",8499,9999.0,4.21,348.0,6.0,128.0,POCO
+"REDMI A4 5G only on Jio SIM (Sparkle Purple, 64 GB)",8980,10999.0,4.32,159.0,4.0,64.0,REDMI
+"Nothing Phone (2a) 5G (Black, 256 GB)",23999,27999.0,4.485,7127.0,8.0,256.0,Nothing
+"Nothing Phone (2a) 5G (Blue, 256 GB)",25999,29999.0,4.413,1082.0,12.0,256.0,Nothing
+"Nothing Phone (2a) 5G (White, 256 GB)",27999,29999.0,4.413,1082.0,12.0,256.0,Nothing
+"SAMSUNG Galaxy S24+ 5G (Cobalt Violet, 256 GB)",62999,99999.0,4.55,392.0,12.0,256.0,SAMSUNG
+"Nothing Phone (2a) 5G (White, 128 GB)",21999,25999.0,4.485,7127.0,8.0,128.0,Nothing
+"REDMI A4 5G only on Jio SIM (Starry Black, 128 GB)",9872,11999.0,4.32,159.0,4.0,128.0,REDMI
+"REDMI 13 5G (Black Diamond, 128 GB)",15999,19999.0,4.25,318.0,8.0,128.0,REDMI
+"CMF by Nothing Phone 1 (Blue, 128 GB)",17499,21999.0,4.421,1472.0,8.0,128.0,CMF
+"Google Pixel 8a (Porcelain, 128 GB)",37999,52999.0,4.33,284.0,8.0,128.0,Google
+"Nothing Phone (2a) 5G (Black, 256 GB)",25999,29999.0,4.413,1082.0,12.0,256.0,Nothing
+"Infinix Hot 50 5G (Dreamy Purple, 128 GB)",9499,12999.0,4.33,282.0,4.0,128.0,Infinix
+"SAMSUNG M05 (Mint Green, 64 GB)",6968,9999.0,4.31,57.0,4.0,64.0,SAMSUNG
+"Nothing Phone (2a) 5G (Blue, 256 GB)",23999,27999.0,4.485,7127.0,8.0,256.0,Nothing
+"Nothing Phone (2a) 5G (Special Edition, 256 GB)",25999,27999.0,4.485,7127.0,8.0,256.0,Nothing
+"Nothing Phone (2a) 5G (Blue, 128 GB)",21999,25999.0,4.485,7127.0,8.0,128.0,Nothing
+"Infinix Note 40X 5G (Palm Blue, 256 GB)",12999,19999.0,4.23,204.0,8.0,256.0,Infinix
+"Motorola Edge 50 Pro 5G with 68W Charger (Black Beauty, 256 GB)",27999,36999.0,4.433,2959.0,8.0,256.0,Motorola
+"realme P1 5G (Phoenix Red, 256 GB)",15999,22999.0,4.445,2571.0,8.0,256.0,realme
+"SAMSUNG Galaxy M35 5G (DayBreak Blue, 128 GB)",14419,24499.0,4.41,814.0,6.0,128.0,SAMSUNG
+"Motorola Edge 50 Neo (PANTONE Latte, 256 GB)",20999,29999.0,4.42,2034.0,8.0,256.0,Motorola
+"Infinix Hot 50 5G (Sleek Black, 128 GB)",10999,14999.0,4.412,923.0,8.0,128.0,Infinix
+"Infinix Hot 50 5G (Vibrant Blue, 128 GB)",10999,14999.0,4.412,923.0,8.0,128.0,Infinix
+"Nothing Phone (2a) Plus (Grey, 256 GB)",29999,31999.0,4.45,382.0,12.0,256.0,Nothing
+"Infinix Hot 50 5G (Vibrant Blue, 128 GB)",9499,12999.0,4.33,282.0,4.0,128.0,Infinix
+"realme 70 TURBO 5G (Turbo Purple, 128 GB)",16406,20999.0,4.41,165.0,8.0,128.0,realme
+"SAMSUNG Galaxy M35 5G (Thunder Grey, 256 GB)",20888,27499.0,4.376,52.0,8.0,256.0,SAMSUNG
+"Google Pixel 8a (Obsidian, 128 GB)",37999,52999.0,4.33,284.0,8.0,128.0,Google
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",12120,17999.0,4.324,1282.0,6.0,128.0,REDMI
+"vivo T3 Ultra (Frost Green, 128 GB)",29999,35999.0,4.512,1093.0,8.0,128.0,vivo
+"vivo T3 Ultra (Lunar Gray, 256 GB)",31999,37999.0,4.512,1093.0,8.0,256.0,vivo
+"realme 70 TURBO 5G (Turbo Purple, 128 GB)",15178,19999.0,4.32,211.0,6.0,128.0,realme
+"OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB)",21595,23999.0,4.411,578.0,8.0,256.0,OnePlus
+"SAMSUNG Galaxy S24+ 5G (Onyx Black, 256 GB)",62999,99999.0,4.55,392.0,12.0,256.0,SAMSUNG
+"OnePlus Nord CE4 lite 5G (MEGA BLUE, 256 GB)",21699,23999.0,4.411,578.0,8.0,256.0,OnePlus
+"vivo T3 Ultra (Frost Green, 256 GB)",33999,39999.0,4.56,509.0,12.0,256.0,vivo
+"realme P1 5G (Peacock Green, 128 GB)",14468,20999.0,4.488,5229.0,6.0,128.0,realme
+"Nothing Phone (2a) 5G (Special Edition, 256 GB)",27999,29999.0,4.413,1082.0,12.0,256.0,Nothing
+"OnePlus Nord N30 5G (Chromatic Gray, 128 GB)",18499,24999.0,4.158,3.0,8.0,128.0,OnePlus
+"SAMSUNG Galaxy F15 5G (Ash Black, 128 GB)",14999,17999.0,4.23,232.0,8.0,128.0,SAMSUNG
+"Infinix Note 40X 5G (Starlit Black, 256 GB)",12999,19999.0,4.23,204.0,8.0,256.0,Infinix
+"SAMSUNG Galaxy S24+ 5G (Onyx Black, 512 GB)",104999,109999.0,4.55,392.0,12.0,512.0,SAMSUNG
+"Infinix Hot 50 5G (Sleek Black, 128 GB)",9499,12999.0,4.33,282.0,4.0,128.0,Infinix
+"SAMSUNG Galaxy F15 5G (Jazzy Green, 128 GB)",14999,17999.0,4.23,232.0,8.0,128.0,SAMSUNG
+"realme 14x 5G (Golden Glow, 128 GB)",15999,17999.0,4.41,99.0,8.0,128.0,realme
+"realme 70 TURBO 5G (Turbo Green, 128 GB)",15063,19999.0,4.32,211.0,6.0,128.0,realme
+"CMF by Nothing Phone 1 (Orange, 128 GB)",17499,21999.0,4.421,1472.0,8.0,128.0,CMF
+"OnePlus Nord CE4 (Dark Chrome, 256 GB)",24500,26999.0,4.519,1112.0,8.0,256.0,OnePlus
+"OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB)",17199,20999.0,4.411,578.0,8.0,128.0,OnePlus
+"OnePlus Nord CE4 (Celadon Marble, 256 GB)",25990,26999.0,4.519,1112.0,8.0,256.0,OnePlus
+"realme C61 (Safari Green, 128 GB)",8190,10999.0,4.41,351.0,6.0,128.0,realme
+"vivo T3 Ultra (Lunar Gray, 256 GB)",33999,39999.0,4.56,509.0,12.0,256.0,vivo
+"SAMSUNG Galaxy M35 5G (Moonlight Blue, 256 GB)",22399,27810.0,4.376,52.0,8.0,256.0,SAMSUNG
+"Tecno Spark Go 1 (Magic Skin Green, 64 GB)",7299,8999.0,4.33,177.0,4.0,64.0,Tecno
+"vivo T3 Ultra (Lunar Gray, 128 GB)",29999,35999.0,4.512,1093.0,8.0,128.0,vivo
+"SAMSUNG Galaxy A05 (Silver, 64 GB)",7899,12499.0,4.4424,24.0,4.0,64.0,SAMSUNG
+"SAMSUNG Galaxy S24+ 5G (Cobalt Violet, 512 GB)",104999,109999.0,4.55,392.0,12.0,512.0,SAMSUNG
+"SAMSUNG Galaxy F15 5G (Ash Black, 128 GB)",13499,16999.0,4.231,2477.0,6.0,128.0,SAMSUNG
+"SAMSUNG Galaxy M35 5G (DayBreak Blue, 128 GB)",16949,25999.0,4.376,52.0,8.0,128.0,SAMSUNG
+"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",17800,21999.0,4.41,8240.0,8.0,256.0,OnePlus
+"SAMSUNG Galaxy F15 5G (Ash Black, 128 GB)",12499,15999.0,4.113,1063.0,4.0,128.0,SAMSUNG
+"IQOO Z9X (Tornado Green, 128 GB)",18600,23000.0,4.41,54.0,8.0,128.0,IQOO
+"IQOO z9x (Tornado Green, 128 GB)",13647,18999.0,4.45,278.0,6.0,128.0,IQOO
+"IQOO Z9X (Storm Grey, 128 GB)",18600,19999.0,4.41,54.0,8.0,128.0,IQOO
+"SAMSUNG Galaxy M35 5G (Moonlight Blue, 128 GB)",16940,25999.0,4.376,52.0,8.0,128.0,SAMSUNG
+"realme 70 TURBO 5G (Turbo Purple, 128 GB)",16404,20999.0,4.41,165.0,8.0,128.0,realme
+"realme 14x 5G (Crystal Black, 128 GB)",15999,17999.0,4.41,99.0,8.0,128.0,realme
+"Google Pixel 9 (Porcelain, 256 GB)",74999,79999.0,4.62,237.0,12.0,256.0,Google
+"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 256 GB)",82990,149999.0,4.64,387.0,12.0,256.0,SAMSUNG
+"Infinix GT 20 Pro (Mecha Orange, 256 GB)",25999,34999.0,4.37,538.0,12.0,256.0,Infinix
+"Infinix GT 20 Pro (Mecha Blue, 256 GB)",25999,34999.0,4.37,538.0,12.0,256.0,Infinix
+"IQOO Z9X (Tornado Green, 128 GB)",15999,19999.0,4.41,54.0,8.0,128.0,IQOO
+"Tecno Spark Go 1 (Glittery White, 64 GB)",6876,8599.0,4.332,22.0,3.0,64.0,Tecno
+"REDMI A4 5G only on Jio SIM (Sparkle Purple, 128 GB)",9696,11999.0,4.32,159.0,4.0,128.0,REDMI
+"Google Pixel 8a (Aloe, 128 GB)",37999,52999.0,4.33,284.0,8.0,128.0,Google
+"REDMI 13 5G (Orchid Pink, 128 GB)",12071,17999.0,4.324,1282.0,6.0,128.0,REDMI
+"Infinix SMART 9 HD (Coral Gold, 64 GB)",6699,8999.0,4.2394,35.0,3.0,64.0,Infinix
+"Infinix SMART 9 HD (Neo Titanium, 64 GB)",6699,8999.0,4.2394,35.0,3.0,64.0,Infinix
+"realme 14x 5G (Golden Glow, 128 GB)",14999,16999.0,4.33,190.0,6.0,128.0,realme
+"Motorola Edge 50 Pro 5G with 68W Charger (Vanilla Cream, 256 GB)",27999,36999.0,4.433,2959.0,8.0,256.0,Motorola
+"itel P 55 5G (Mint Green, 128 GB)",8949,13499.0,4.2439,33.0,6.0,128.0,itel
+"REDMI 13c 5G (Starlight Black, 128 GB)",10450,13999.0,4.341,1687.0,4.0,128.0,REDMI
+"REDMI 13C 5G (Startrail Green, 256 GB)",13299,17999.0,4.27,401.0,8.0,256.0,REDMI
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Black, 256 GB)",129999,21499.0,4.7996,131.0,12.0,256.0,SAMSUNG
+"REDMI 13C 5G (Starlight Black, 256 GB)",13299,17999.0,4.27,401.0,8.0,256.0,REDMI
+"realme GT 6 (Razor Green, 256 GB)",37999,46999.0,4.4927,95.0,12.0,256.0,realme
+"realme NARZO 70X 5G (FOREST GREEN, 128 GB)",11649,17999.0,4.34,201.0,6.0,128.0,realme
+"POCO M6 Plus 5G (Ice Silver, 128 GB)",11999,17999.0,4.26,426.0,8.0,128.0,POCO
+"REDMI Note 13 5G (Stealth Black, 256 GB)",16999,22999.0,4.216,973.0,8.0,256.0,REDMI
+"Google Pixel 9 (Obsidian, 256 GB)",74999,79999.0,4.62,237.0,12.0,256.0,Google
+"REDMI 13c 5G (Starlight Black, 128 GB)",10399,13999.0,4.341,1687.0,4.0,128.0,REDMI
+"OnePlus 13R 5G (Nebula Noir, 512 GB)",46789,51999.0,4.463,7.0,16.0,512.0,OnePlus
+"REDMI 13c 5G (Starlight Black, 256 GB)",13000,17999.0,4.27,401.0,8.0,256.0,REDMI
+"realme GT 6 (Fluid Silver, 512 GB)",37999,51999.0,4.53,412.0,16.0,512.0,realme
+"realme NARZO N65 5G (DEEP GREEN, 128 GB)",11499,14999.0,4.33,182.0,6.0,128.0,realme
+"SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",12499,15999.0,4.113,1063.0,4.0,128.0,SAMSUNG
+"REDMI 13 5G (Hawaiian Blue, 128 GB)",12114,17999.0,4.324,1282.0,6.0,128.0,REDMI
+"vivo Y18e (Space Black, 64 GB)",7999,11999.0,4.2809,26.0,4.0,64.0,vivo
+"SAMSUNG Galaxy M35 5G (Moonlight Blue, 128 GB)",14480,24499.0,4.41,814.0,6.0,128.0,SAMSUNG
+"Google Pixel 8a (Bay, 128 GB)",37999,52999.0,4.33,284.0,8.0,128.0,Google
+"realme GT 6 (Razor Green, 256 GB)",33999,43999.0,4.52,257.0,8.0,256.0,realme
+"Nothing Phone (2a) Plus (Black, 256 GB)",29999,31999.0,4.45,382.0,12.0,256.0,Nothing
+"vivo Y18i (Space Black, 64 GB)",7999,11999.0,4.12,57.0,4.0,64.0,vivo
+"realme C61 (Marble Black, 128 GB)",8499,9999.0,4.34,188.0,4.0,128.0,realme
+"realme C61 (Safari Green, 128 GB)",8499,9999.0,4.34,188.0,4.0,128.0,realme
+"realme GT 6 (Fluid Silver, 256 GB)",37999,46999.0,4.4927,95.0,12.0,256.0,realme
+"realme NARZO N65 5G (AMBER GOLD, 128 GB)",11644,14999.0,4.33,182.0,6.0,128.0,realme
+"realme C61 (Marble Black, 64 GB)",7283,8999.0,4.34,188.0,4.0,64.0,realme
+"OnePlus Nord 4 5G (Mercurial Silver, 256 GB)",28189,32999.0,4.41,85.0,8.0,256.0,OnePlus
+"OnePlus Nord 4 5G (Oasis Green, 256 GB)",27876,32999.0,4.41,85.0,8.0,256.0,OnePlus
+"realme 12x 5G (Coral Red, 128 GB)",13499,18999.0,4.449,1822.0,8.0,128.0,realme
+"POCO F6 5G (Titanium, 512 GB)",33999,37999.0,4.36,611.0,12.0,512.0,POCO
+"OnePlus Nord 4 5G (Obsidian Midnight, 256 GB)",31967,35999.0,4.4323,17.0,12.0,256.0,OnePlus
+"Motorola g45 5G (Pink Lavender, 128 GB)",10999,12999.0,4.328,1900.0,4.0,128.0,Motorola
+"realme C63 (Jade Green, 128 GB)",8999,10999.0,4.39,503.0,4.0,128.0,realme
+"realme 12x 5G (Twilight Purple, 128 GB)",13499,18999.0,4.449,1822.0,8.0,128.0,realme
+"realme 12x 5G (Woodland Green, 128 GB)",13499,18999.0,4.449,1822.0,8.0,128.0,realme
+"Nothing Phone (2a) Plus (Black, 256 GB)",27499,29999.0,4.411,821.0,8.0,256.0,Nothing
+"Google Pixel 9 Pro XL (Hazel, 256 GB)",124999,21499.0,4.6619,56.0,16.0,256.0,Google
+"realme 12x 5G (Coral Red, 128 GB)",12499,17999.0,4.41,4819.0,6.0,128.0,realme
+"Infinix SMART 8 HD (Crystal Green, 64 GB)",6699,7999.0,4.344,2759.0,3.0,64.0,Infinix
+"Infinix SMART 8 HD (Timber Black, 64 GB)",6699,7999.0,4.344,2759.0,3.0,64.0,Infinix
+"Infinix SMART 8 HD (Shiny Gold, 64 GB)",6699,7999.0,4.344,2759.0,3.0,64.0,Infinix
+"Infinix SMART 8 HD (Galaxy White, 64 GB)",6699,7999.0,4.344,2759.0,3.0,64.0,Infinix
+"REDMI A3 (Midnight Black, 128 GB)",8399,11999.0,4.15,273.0,6.0,128.0,REDMI
+"Google Pixel 9 Pro (Hazel, 256 GB)",109999,21499.0,4.6299,47.0,16.0,256.0,Google
+"realme Narzo N65 5G (AMBER GOLD, 128 GB)",12072,15999.0,4.2118,6.0,8.0,128.0,realme
+"REDMI A3 (Midnight Black, 128 GB)",7999,10999.0,4.21,69.0,4.0,128.0,REDMI
+"OnePlus Nord CE4 lite 5G (SUPER SILVER, 256 GB)",21949,23999.0,4.411,578.0,8.0,256.0,OnePlus
+"Tecno Pova 6 Neo (Aurora Cloud, 128 GB)",11998,15999.0,4.255,45.0,6.0,128.0,Tecno
+"Tecno Pova 6 Neo (Midnight Shadow, 128 GB)",11968,15999.0,4.255,45.0,6.0,128.0,Tecno
+"REDMI 13 5G (Black Diamond, 128 GB)",12096,17999.0,4.324,1282.0,6.0,128.0,REDMI
+"OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 256 GB)",21299,23999.0,4.411,578.0,8.0,256.0,OnePlus
+"realme C63 (Jade Green, 64 GB)",8499,9999.0,4.39,503.0,4.0,64.0,realme
+"Infinix Note 40 5G (Racing Grey, 256 GB)",15999,24999.0,4.28,916.0,8.0,256.0,Infinix
+"vivo Y18i (Gem Green, 64 GB)",7999,11999.0,4.12,57.0,4.0,64.0,vivo
+"realme NARZO 70X 5G (Ice Blue, 128 GB)",12790,18999.0,4.32,108.0,8.0,128.0,realme
+"Infinix SMART 8 HD (Crystal Green, 64 GB)",6999,8999.0,4.31,67.0,4.0,64.0,Infinix
+"OnePlus Nord CE4 lite 5G (ULTRA ORANGE, 128 GB)",18440,20999.0,4.411,578.0,8.0,128.0,OnePlus
+"realme 14 Pro 5G (Pearl White, 256 GB)",26999,29999.0,4.42,242.0,8.0,256.0,realme
+"IQOO Z9s Pro 5G (Luxe Marble, 128 GB)",22996,29999.0,4.51,115.0,8.0,128.0,IQOO
+"IQOO Z9S PRO 5G (Luxe Marble, 128 GB)",22990,29999.0,4.51,115.0,8.0,128.0,IQOO
+"REDMI A3 (Midnight Black, 128 GB)",8888,11999.0,4.15,273.0,6.0,128.0,REDMI
+"realme 14 Pro 5G (Suede Grey, 128 GB)",24999,27999.0,4.42,242.0,8.0,128.0,realme
+"realme 70 TURBO 5G (Turbo Purple, 256 GB)",20990,22999.0,4.3307,12.0,12.0,256.0,realme
+"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 512 GB)",161999,21499.0,4.64,387.0,12.0,512.0,SAMSUNG
+"Google Pixel 9 (Wintergreen, 256 GB)",74999,79999.0,4.62,237.0,12.0,256.0,Google
+"realme 70 TURBO 5G (Turbo Yellow, 256 GB)",20990,22999.0,4.3307,12.0,12.0,256.0,realme
+"SAMSUNG Galaxy S24+ 5G (Cobalt Violet, 256 GB)",60999,99999.0,4.55,392.0,12.0,256.0,SAMSUNG
+"realme C65 5G (Glowing Black, 128 GB)",11245,15999.0,4.411,499.0,6.0,128.0,realme
+"REDMI Note 13 5G (Chromatic Purple, 128 GB)",14997,20999.0,4.228,1664.0,6.0,128.0,REDMI
+"Motorola G85 5G (Urban Grey, 128 GB)",17999,20999.0,4.41,7891.0,8.0,128.0,Motorola
+"OnePlus 13R 5G (Nebula Noir, 256 GB)",42998,44999.0,4.5337,34.0,12.0,256.0,OnePlus
+"realme 12x 5G (Twilight Purple, 128 GB)",12499,17999.0,4.41,4819.0,6.0,128.0,realme
+"realme 12x 5G (Woodland Green, 128 GB)",12499,17999.0,4.41,4819.0,6.0,128.0,realme
+"realme C65 5G (Speedy Red, 128 GB)",10699,14999.0,4.24,220.0,4.0,128.0,realme
+"realme C65 5G (Speedy Red, 128 GB)",15999,21499.0,4.411,499.0,6.0,128.0,realme
+"Motorola Edge 50 Pro 5G with 125W Charger (Black Beauty, 256 GB)",29999,41999.0,4.456,3762.0,12.0,256.0,Motorola
+"realme 14 Pro+ 5G (Suede Grey, 256 GB)",31999,35999.0,4.42,532.0,8.0,256.0,realme
+"realme 14 Pro+ 5G (Pearl White, 256 GB)",31999,35999.0,4.42,532.0,8.0,256.0,realme
+"realme 14 Pro+ 5G (Bikaner Purple, 256 GB)",31999,35999.0,4.42,532.0,8.0,256.0,realme
+"REDMI 13c 5G (Startrail Green, 256 GB)",14990,17999.0,4.27,401.0,8.0,256.0,REDMI
+"realme 14 Pro+ 5G (Pearl White, 128 GB)",29999,33999.0,4.42,532.0,8.0,128.0,realme
+"Infinix SMART 8 HD (Shiny Gold, 64 GB)",6999,8999.0,4.31,67.0,4.0,64.0,Infinix
+"IQOO Z9s Pro 5G (Luxe Marble, 256 GB)",25193,31999.0,4.51,115.0,8.0,256.0,IQOO
+"REDMI 13c 5G (Startrail Silver, 256 GB)",12999,17999.0,4.27,401.0,8.0,256.0,REDMI
+"Motorola Edge 50 Ultra 5G (Forest Grey, 512 GB)",49999,64999.0,4.42,260.0,12.0,512.0,Motorola
+"Google Pixel 9 (Peony, 256 GB)",74999,79999.0,4.62,237.0,12.0,256.0,Google
+"POCO F6 5G (Titanium, 256 GB)",26999,35999.0,4.36,611.0,12.0,256.0,POCO
+"realme GT 6 (Fluid Silver, 256 GB)",33999,43999.0,4.52,257.0,8.0,256.0,realme
+"realme C65 5G (Feather Green, 128 GB)",10490,14999.0,4.24,220.0,4.0,128.0,realme
+"realme 70 TURBO 5G (Turbo Green, 128 GB)",16198,20999.0,4.41,165.0,8.0,128.0,realme
+"realme C65 5G (Feather Green, 128 GB)",11469,15999.0,4.411,499.0,6.0,128.0,realme
+"SAMSUNG Galaxy S24 Ultra 5G (Titanium Black, 256 GB)",134999,21499.0,4.62,280.0,12.0,256.0,SAMSUNG
+"realme 14 Pro+ 5G (Suede Grey, 256 GB)",34999,37999.0,4.42,323.0,12.0,256.0,realme
+"realme 14 Pro+ 5G (Pearl White, 256 GB)",34999,37999.0,4.42,323.0,12.0,256.0,realme
+"Infinix SMART 8 (Rainbow Blue, 128 GB)",8999,10999.0,4.311,633.0,8.0,128.0,Infinix
+"Infinix SMART 8 (Shiny Gold, 128 GB)",8999,10999.0,4.311,633.0,8.0,128.0,Infinix
+"realme 14 Pro+ 5G (Bikaner Purple, 256 GB)",34999,37999.0,4.42,323.0,12.0,256.0,realme
+"realme C65 5G (Glowing Black, 128 GB)",10699,14999.0,4.24,220.0,4.0,128.0,realme
+"Google Pixel 7a (Charcoal, 128 GB)",31999,43999.0,4.126,2593.0,8.0,128.0,Google
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Whitesilver, 512 GB)",141999,21499.0,4.7996,131.0,12.0,512.0,SAMSUNG
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Whitesilver, 256 GB)",129999,21499.0,4.7996,131.0,12.0,256.0,SAMSUNG
+"Infinix SMART 8 (Galaxy White, 128 GB)",8999,10999.0,4.311,633.0,8.0,128.0,Infinix
+"realme C65 5G (Speedy Red, 128 GB)",12490,16999.0,4.31,50.0,8.0,128.0,realme
+"realme C65 5G (Feather Green, 128 GB)",12790,16999.0,4.31,50.0,8.0,128.0,realme
+"Google Pixel 7 (Lemongrass, 128 GB)",33999,59999.0,4.318,2014.0,8.0,128.0,Google
+"SAMSUNG Galaxy A35 5G (Awesome Navy, 256 GB)",28999,36999.0,4.34,345.0,8.0,256.0,SAMSUNG
+"POCO M7 Pro 5G (Lunar Dust, 128 GB)",13999,18999.0,4.34,500.0,6.0,128.0,POCO
+"realme GT 6T 5G (Miracle Purple, 256 GB)",30489,37999.0,4.5822,82.0,12.0,256.0,realme
+"SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",13499,16999.0,4.231,2477.0,6.0,128.0,SAMSUNG
+"Infinix SMART 8 (Timber Black, 64 GB)",7299,8999.0,4.333,1912.0,4.0,64.0,Infinix
+"Infinix SMART 8 (Shiny Gold, 64 GB)",7299,8999.0,4.333,1912.0,4.0,64.0,Infinix
+"Infinix SMART 8 (Rainbow Blue, 64 GB)",7299,8999.0,4.333,1912.0,4.0,64.0,Infinix
+"Motorola G85 5G (Urban Grey, 256 GB)",19999,22999.0,4.456,3149.0,12.0,256.0,Motorola
+"SAMSUNG Galaxy S24 Ultra 5G (Titanium Black, 512 GB)",144999,21499.0,4.62,280.0,12.0,512.0,SAMSUNG
+"OnePlus Nord 4 5G (Oasis Green, 128 GB)",23999,29999.0,4.41,85.0,8.0,128.0,OnePlus
+"SAMSUNG Galaxy M15 5G (Stone Grey, 128 GB)",11949,15999.0,4.2417,26.0,4.0,128.0,SAMSUNG
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Gray, 256 GB)",129999,21499.0,4.7996,131.0,12.0,256.0,SAMSUNG
+"IQOO Z9 LITE 5G (Mocha Brown, 128 GB)",10899,14499.0,4.22,104.0,4.0,128.0,IQOO
+"REDMI 14C 5G (Stardust Purple, 64 GB)",9999,12999.0,4.1417,29.0,4.0,64.0,REDMI
+"SAMSUNG Galaxy F15 5G (Jazzy Green, 128 GB)",12499,15999.0,4.113,1063.0,4.0,128.0,SAMSUNG
+"realme 14 Pro 5G (Jaipur Pink, 256 GB)",26999,29999.0,4.42,242.0,8.0,256.0,realme
+"IQOO Z9SPRO 5G (Luxe Marble, 256 GB)",24462,31999.0,4.544,2.0,8.0,256.0,IQOO
+"IQOO Z9S PRO 5G (Luxe Marble, 256 GB)",30989,33999.0,4.529,25.0,12.0,256.0,IQOO
+"realme 14 Pro 5G (Pearl White, 128 GB)",24999,27999.0,4.42,242.0,8.0,128.0,realme
+"OnePlus Nord 4 5G (Mercurial Silver, 128 GB)",27951,29999.0,4.41,85.0,8.0,128.0,OnePlus
+"realme GT 6T 5G (Razor Green, 256 GB)",27278,35999.0,4.52,168.0,8.0,256.0,realme
+"realme 70 TURBO 5G (Turbo Yellow, 128 GB)",15020,20131.0,4.32,211.0,6.0,128.0,realme
+"SAMSUNG Galaxy M15 5G (Stone Grey, 128 GB)",11930,15999.0,4.2417,26.0,4.0,128.0,SAMSUNG
+"POCO X7 Pro 5G (Obsidian Black, 256 GB)",29999,33999.0,4.41,267.0,12.0,256.0,POCO
+"vivo Y58 5G (Sundarbans Green, 128 GB)",16680,24156.0,4.459,25.0,8.0,128.0,vivo
+"SAMSUNG Galaxy A05 (Silver, 128 GB)",8138,14999.0,4.3468,21.0,6.0,128.0,SAMSUNG
+"SAMSUNG Galaxy A35 5G (Awesome Lilac, 256 GB)",28999,36999.0,4.34,345.0,8.0,256.0,SAMSUNG
+"OnePlus Nord 4 5G (Oasis Green, 256 GB)",29999,32990.0,4.4323,17.0,12.0,256.0,OnePlus
+"POCO X7 Pro 5G (Obsidian Black, 256 GB)",27999,31999.0,4.32,600.0,8.0,256.0,POCO
+"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",21999,28990.0,4.12,190.0,6.0,128.0,SAMSUNG
+"realme Narzo N65 5G (Deep Green, 128 GB)",10790,13999.0,4.3803,36.0,4.0,128.0,realme
+"OPPO A3x 5G (Starry Purple, 64 GB)",11499,14999.0,4.21,77.0,4.0,64.0,OPPO
+"Infinix HOT 40i (Starlit Black, 256 GB)",9999,10999.0,4.122,1308.0,8.0,256.0,Infinix
+"Infinix HOT 40i (Palm Blue, 256 GB)",9999,10999.0,4.122,1308.0,8.0,256.0,Infinix
+"Infinix HOT 40i (Horizon Gold, 256 GB)",9999,10999.0,4.122,1308.0,8.0,256.0,Infinix
+"Infinix HOT 40i (Starfall Green, 256 GB)",9999,10999.0,4.122,1308.0,8.0,256.0,Infinix
+"realme 14 Pro+ 5G (Suede Grey, 128 GB)",29999,33999.0,4.42,532.0,8.0,128.0,realme
+"REDMI 14C 5G (Stargaze Black, 128 GB)",10999,13999.0,4.1417,29.0,4.0,128.0,REDMI
+"OPPO A3 5G (Ocean Blue, 128 GB)",14999,19999.0,4.2697,37.0,6.0,128.0,OPPO
+"REDMI 14C 5G (Starlight Blue, 128 GB)",10999,13999.0,4.1417,29.0,4.0,128.0,REDMI
+"Google Pixel 7 (Snow, 128 GB)",33999,59999.0,4.318,2014.0,8.0,128.0,Google
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Gray, 512 GB)",141999,21499.0,4.7996,131.0,12.0,512.0,SAMSUNG
+"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Glorious Orange, 32 GB)",5399,6799.0,4.11,64.0,2.0,32.0,itel
+"SAMSUNG Galaxy Z Fold5 (Icy Blue, 512 GB)",103999,169999.0,4.65,27.0,12.0,512.0,SAMSUNG
+"OPPO A3 Pro 5G (Moonlight Purple, 128 GB)",17499,21999.0,4.31,76.0,8.0,128.0,OPPO
+"realme C65 5G (Glowing Black, 128 GB)",12697,14990.0,4.31,50.0,8.0,128.0,realme
+"realme 70 TURBO 5G (Turbo Yellow, 128 GB)",16305,20999.0,4.41,165.0,8.0,128.0,realme
+"realme C63 (Leather Blue, 64 GB)",8499,9999.0,4.39,503.0,4.0,64.0,realme
+"Infinix Note 40 5G (Titan Gold, 256 GB)",15999,24999.0,4.28,916.0,8.0,256.0,Infinix
+"Infinix Note 40 5G (Obsidian Black, 256 GB)",15999,24999.0,4.28,916.0,8.0,256.0,Infinix
+"IQOO Z9 Lite 5G (Aqua Flow, 128 GB)",11400,15499.0,4.33,139.0,6.0,128.0,IQOO
+"SAMSUNG Galaxy S24 FE 5G (Mint, 256 GB)",65999,21499.0,4.5514,47.0,8.0,256.0,SAMSUNG
+"SAMSUNG Galaxy S24 FE 5G (Blue, 256 GB)",65999,21499.0,4.5514,47.0,8.0,256.0,SAMSUNG
+"SAMSUNG Galaxy S24 FE 5G (Graphite, 256 GB)",65999,21499.0,4.5514,47.0,8.0,256.0,SAMSUNG
+"IQOO Z9x (Tornado Green, 128 GB)",11602,17999.0,4.21,79.0,4.0,128.0,IQOO
+"REDMI A3 (Lake Blue, 128 GB)",8399,11999.0,4.15,273.0,6.0,128.0,REDMI
+"Infinix SMART 8 HD (Galaxy White, 64 GB)",6999,8999.0,4.31,67.0,4.0,64.0,Infinix
+"REDMI 13c 5G (Startrail Silver, 128 GB)",11184,15999.0,4.335,1536.0,6.0,128.0,REDMI
+"POCO X6 Neo 5G (Astral Black, 128 GB)",15999,19999.0,4.237,2830.0,8.0,128.0,POCO
+"SAMSUNG Galaxy S24 FE 5G (Graphite, 128 GB)",59999,21499.0,4.5514,47.0,8.0,128.0,SAMSUNG
+"IQOO Z9 Lite 5G (Mocha Brown, 128 GB)",12899,15499.0,4.33,139.0,6.0,128.0,IQOO
+"POCO X7 Pro 5G (Nebula Green, 256 GB)",29999,33999.0,4.41,267.0,12.0,256.0,POCO
+"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Meadow Green, 32 GB)",5499,6799.0,4.11,64.0,2.0,32.0,itel
+"POCO M7 Pro 5G (Olive Twilight, 128 GB)",13999,18999.0,4.34,500.0,6.0,128.0,POCO
+"POCO M6 5G (Orion Blue, 128 GB)",10499,13999.0,4.348,2478.0,6.0,128.0,POCO
+"POCO X7 Pro 5G (Nebula Green, 256 GB)",27999,31999.0,4.32,600.0,8.0,256.0,POCO
+"realme GT 6T 5G (Fluid Silver, 128 GB)",25248,33999.0,4.52,168.0,8.0,128.0,realme
+"SAMSUNG Galaxy M14 4G (Sapphire Blue, 64 GB)",8850,13999.0,4.12,116.0,4.0,64.0,SAMSUNG
+"SAMSUNG Galaxy S24 FE 5G (Graphite, 128 GB)",43480,59999.0,4.5514,47.0,8.0,128.0,SAMSUNG
+"SAMSUNG Galaxy A15 5G (Light Blue, 256 GB)",19999,24499.0,4.33,219.0,8.0,256.0,SAMSUNG
+"REDMI 13c 5G (Startrail Silver, 128 GB)",10300,13999.0,4.341,1687.0,4.0,128.0,REDMI
+"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Crystal Blue, 32 GB)",5685,6799.0,4.11,64.0,2.0,32.0,itel
+"SAMSUNG Galaxy A05 (Light Green, 128 GB)",8093,14999.0,4.3468,21.0,6.0,128.0,SAMSUNG
+"realme GT 6T 5G (Fluid Silver, 512 GB)",32921,41999.0,4.5822,82.0,12.0,512.0,realme
+"IQOO Z9S 5G (Onyx Green, 256 GB)",24630,29999.0,4.5185,9.0,12.0,256.0,IQOO
+"IQOO Z9S 5G (Titanium Matte, 256 GB)",22380,27999.0,4.42,163.0,8.0,256.0,IQOO
+"REDMI Note 13 Pro+ 5G (Fusion Purple, 256 GB)",24999,33999.0,4.317,1561.0,8.0,256.0,REDMI
+"realme P1 5G (Feather Blue, 128 GB)",13950,20999.0,4.488,5229.0,6.0,128.0,realme
+"Google Pixel 7a (Sea, 128 GB)",31999,43999.0,4.126,2593.0,8.0,128.0,Google
+"SAMSUNG Galaxy A15 5G (Light Blue, 128 GB)",16999,21499.0,4.33,219.0,8.0,128.0,SAMSUNG
+"SAMSUNG Galaxy A35 5G (Awesome Lilac, 128 GB)",25999,33999.0,4.34,345.0,8.0,128.0,SAMSUNG
+"realme 12 Pro+ 5G (Submarine Blue, 128 GB)",21999,34999.0,4.426,3058.0,8.0,128.0,realme
+"realme P1 5G (Phoenix Red, 128 GB)",13990,20999.0,4.488,5229.0,6.0,128.0,realme
+"REDMI 13c 5G (Starlight Black, 128 GB)",11145,15999.0,4.335,1536.0,6.0,128.0,REDMI
+"REDMI Note 13 Pro 5G (Scarlet Red, 128 GB)",19999,28999.0,4.334,2774.0,8.0,128.0,REDMI
+"REDMI Note 13 Pro+ 5G (Fusion Purple, 512 GB)",28999,37999.0,4.21,931.0,12.0,512.0,REDMI
+"REDMI Note 13 Pro+ 5G (Fusion Purple, 512 GB)",28298,37999.0,4.21,931.0,12.0,512.0,REDMI
+"vivo T2x 5G (Black Gladiator, 128 GB)",14999,20999.0,4.477,4341.0,8.0,128.0,vivo
+"REDMI Note 14 5G (Titan Black, 256 GB)",21490,24999.0,4.3351,29.0,8.0,256.0,REDMI
+"vivo T2x 5G (Marine Blue, 128 GB)",12999,18999.0,4.44,23708.0,6.0,128.0,vivo
+"Infinix Note 40 Pro+ 5G (Obsidian Black, 256 GB)",21999,32999.0,4.23,332.0,12.0,256.0,Infinix
+"REDMI Note 14 5G (Titan Black, 128 GB)",18773,22999.0,4.3351,29.0,8.0,128.0,REDMI
+"POCO M6 5G (Orion Blue, 64 GB)",8499,11999.0,4.21,6927.0,4.0,64.0,POCO
+"Tecno Pova 6 Neo (Midnight Shadow, 256 GB)",13997,16999.0,4.21,150.0,8.0,256.0,Tecno
+"vivo T2x 5G (Aurora Gold, 128 GB)",12999,18999.0,4.44,23708.0,6.0,128.0,vivo
+"vivo T2x 5G (Sunstone Orange, 128 GB)",12999,18999.0,4.44,23708.0,6.0,128.0,vivo
+"Motorola Edge 50 Ultra 5G (Peach Fuzz, 512 GB)",49999,64999.0,4.42,260.0,12.0,512.0,Motorola
+"SAMSUNG Galaxy S24 FE 5G (Mint, 128 GB)",59999,21499.0,4.5514,47.0,8.0,128.0,SAMSUNG
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Silverblue, 1024 GB)",165999,21499.0,4.7996,131.0,12.0,1024.0,SAMSUNG
+"vivo T2x 5G (Black Gladiator, 128 GB)",12999,18999.0,4.44,23708.0,6.0,128.0,vivo
+"SAMSUNG Galaxy M15 5G (Blue Topaz, 128 GB)",13490,16999.0,4.33,143.0,6.0,128.0,SAMSUNG
+"Motorola Edge 50 Ultra 5G (Nordic Wood, 512 GB)",49999,64999.0,4.42,260.0,12.0,512.0,Motorola
+"Tecno Spark Go 1 (Startrail Black, 64 GB)",6878,8599.0,4.332,22.0,3.0,64.0,Tecno
+"REDMI Note 13 5G (Arctic White, 128 GB)",14999,20999.0,4.228,1664.0,6.0,128.0,REDMI
+"vivo T2x 5G (Black Gladiator, 128 GB)",11999,17999.0,4.41,9391.0,4.0,128.0,vivo
+"vivo V30 Pro 5G (Classic Black, 512 GB)",39999,51999.0,4.52,252.0,12.0,512.0,vivo
+"realme 13 Pro+ 5G (Emerald Green, 256 GB)",26999,38999.0,4.56,620.0,12.0,256.0,realme
+"REDMI Note 14 5G (Mystique White, 128 GB)",17965,21999.0,4.4708,44.0,6.0,128.0,REDMI
+"vivo V30 Pro 5G (Andaman Blue, 512 GB)",39999,51999.0,4.52,252.0,12.0,512.0,vivo
+"realme 13 Pro+ 5G (Emerald Green, 512 GB)",28999,40999.0,4.56,620.0,12.0,512.0,realme
+"SAMSUNG M15 Prime Edition (Celestial Blue, 128 GB)",12714,16999.0,4.4287,19.0,6.0,128.0,SAMSUNG
+"vivo T2x 5G (Marine Blue, 128 GB)",15999,20999.0,4.477,4341.0,8.0,128.0,vivo
+"REDMI Note 13 5G (Prism Gold, 256 GB)",17683,24999.0,4.16,404.0,12.0,256.0,REDMI
+"SAMSUNG M15 Prime Edition (Blue Topaz, 128 GB)",12687,16999.0,4.4287,19.0,6.0,128.0,SAMSUNG
+"realme 13 Pro+ 5G (Monet Gold, 512 GB)",28999,40999.0,4.56,620.0,12.0,512.0,realme
+"vivo V30 Pro 5G (Classic Black, 256 GB)",34999,46999.0,4.56,781.0,8.0,256.0,vivo
+"Google Pixel 8 (Rose, 128 GB)",49999,75999.0,4.417,1370.0,8.0,128.0,Google
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Silverblue, 256 GB)",129999,21499.0,4.7996,131.0,12.0,256.0,SAMSUNG
+"Google Pixel 8 (Mint, 128 GB)",49999,75999.0,4.417,1370.0,8.0,128.0,Google
+"POCO M7 Pro 5G (Olive Twilight, 256 GB)",15999,20999.0,4.21,316.0,8.0,256.0,POCO
+"Motorola e40 (Carbon Gray, 64 GB)",6887,10999.0,4.29,7786.0,4.0,64.0,Motorola
+"realme 13 Pro+ 5G (Monet Gold, 256 GB)",26999,38999.0,4.56,620.0,12.0,256.0,realme
+"SAMSUNG Galaxy S23 5G (Cream, 256 GB)",49999,95999.0,4.673,5088.0,8.0,256.0,SAMSUNG
+"realme NARZO N63 (Leather Blue, 64 GB)",8479,9999.0,4.31,66.0,4.0,64.0,realme
+"OPPO A3 Pro 5G (Starry Black, 256 GB)",19999,22999.0,4.31,76.0,8.0,256.0,OPPO
+"realme C65 5G (Glowing Black, 128 GB)",11184,15999.0,4.411,499.0,6.0,128.0,realme
+"realme C63 (Leather Blue, 128 GB)",8999,10999.0,4.39,503.0,4.0,128.0,realme
+"itel A50 (Cyan Blue, 64 GB)",6184,7399.0,4.3184,12.0,4.0,64.0,itel
+"SAMSUNG Galaxy A16 5G (Light Green, 128 GB)",16999,21499.0,4.21,91.0,8.0,128.0,SAMSUNG
+"vivo V50 5G (Starry Night, 512 GB)",40999,48999.0,4.5165,23.0,12.0,512.0,vivo
+"vivo V50 5G (Rose Red, 512 GB)",40999,48999.0,4.5165,23.0,12.0,512.0,vivo
+"SAMSUNG Galaxy S23 5G (Cream, 128 GB)",44999,89999.0,4.673,5088.0,8.0,128.0,SAMSUNG
+"vivo V50 5G (Rose Red, 128 GB)",34999,39999.0,4.6536,75.0,8.0,128.0,vivo
+"vivo X200 Pro 5G (Cosmos Black, 512 GB)",94999,101999.0,4.7591,156.0,16.0,512.0,vivo
+"OnePlus 13R 5G (Nebula Noir, 512 GB)",46788,51999.0,4.463,7.0,16.0,512.0,OnePlus
+"REDMI Note 13 5G (Arctic White, 256 GB)",17499,24999.0,4.16,404.0,12.0,256.0,REDMI
+"OPPO A3 Pro 5G (Moonlight Purple, 128 GB)",17999,20999.0,4.31,76.0,8.0,128.0,OPPO
+"OPPO A3 Pro 5G (Starry Black, 128 GB)",17999,20999.0,4.31,76.0,8.0,128.0,OPPO
+"realme Narzo N65 5G (Deep Green, 128 GB)",12172,15999.0,4.2118,6.0,8.0,128.0,realme
+"POCO M6 5G (Polaris Green, 128 GB)",10499,13999.0,4.348,2478.0,6.0,128.0,POCO
+"Infinix Zero 40 5G (Moving Titanium, 256 GB)",25999,37999.0,4.21,148.0,12.0,256.0,Infinix
+"SAMSUNG galaxy M15 5G (Celestrial Blue, 128 GB)",14285,17999.0,4.196,6.0,8.0,128.0,SAMSUNG
+"realme C63 5G (Forest Green, 128 GB)",10813,13999.0,4.514,433.0,6.0,128.0,realme
+"REDMI A3 (Olive Green, 128 GB)",8899,11999.0,4.15,273.0,6.0,128.0,REDMI
+"vivo T2x 5G (Aurora Gold, 128 GB)",11999,17999.0,4.41,9391.0,4.0,128.0,vivo
+"REDMI Note 13 Pro+ 5G (Fusion White, 256 GB)",26999,35999.0,4.21,931.0,12.0,256.0,REDMI
+"vivo Y29 5G (Diamond Black, 128 GB)",15499,17999.0,4.4378,12.0,6.0,128.0,vivo
+"Google Pixel 9 Pro XL (Porcelain, 256 GB)",124999,21499.0,4.6619,56.0,16.0,256.0,Google
+"REDMI Note 13 Pro 5G (Scarlet Red, 128 GB)",18990,28999.0,4.334,2774.0,8.0,128.0,REDMI
+"Google Pixel 7 (Obsidian, 128 GB)",33999,59999.0,4.318,2014.0,8.0,128.0,Google
+"REDMI Note 13 5G (Arctic White, 256 GB)",16999,22999.0,4.216,973.0,8.0,256.0,REDMI
+"POCO X7 5G (Yellow, 256 GB)",20999,27999.0,4.31,194.0,8.0,256.0,POCO
+"SAMSUNG Galaxy A35 5G (Awesome Iceblue, 256 GB)",28999,36999.0,4.34,345.0,8.0,256.0,SAMSUNG
+"realme 13 Pro 5G (Monet Gold, 128 GB)",21999,28999.0,4.46,436.0,8.0,128.0,realme
+"realme 12 Pro+ 5G (Explorer Red, 256 GB)",23999,37999.0,4.513,1300.0,12.0,256.0,realme
+"realme 12 Pro+ 5G (Navigator Beige, 256 GB)",23999,37999.0,4.513,1300.0,12.0,256.0,realme
+"vivo T2x 5G (Glimmer Black, 128 GB)",15599,20999.0,4.477,4341.0,8.0,128.0,vivo
+"SAMSUNG Galaxy S24 FE 5G (Blue, 128 GB)",59999,21499.0,4.5514,47.0,8.0,128.0,SAMSUNG
+"vivo Y29 5G (Glacier Blue, 128 GB)",13999,16499.0,4.42,13.0,4.0,128.0,vivo
+"vivo Y29 5G (Diamond Black, 128 GB)",13999,16499.0,4.42,13.0,4.0,128.0,vivo
+"IQOO Z9S 5G (Titanium Matte, 256 GB)",27995,29999.0,4.5185,9.0,12.0,256.0,IQOO
+"vivo V50 5G (Titanium Grey, 128 GB)",34999,39999.0,4.6536,75.0,8.0,128.0,vivo
+"SAMSUNG Galaxy A16 5G (Gold, 256 GB)",19999,24499.0,4.21,91.0,8.0,256.0,SAMSUNG
+"SAMSUNG Galaxy A16 5G (Blue Black, 256 GB)",19999,24499.0,4.21,91.0,8.0,256.0,SAMSUNG
+"vivo Y300 5G (Phantom Purple, 256 GB)",23999,28999.0,4.41,87.0,8.0,256.0,vivo
+"realme GT 6T 5G (Fluid Silver, 256 GB)",27388,35999.0,4.52,168.0,8.0,256.0,realme
+"Google Pixel 9 Pro (Porcelain, 256 GB)",109999,21499.0,4.6299,47.0,16.0,256.0,Google
+"SAMSUNG Galaxy A16 5G (Light Green, 256 GB)",19999,24499.0,4.21,91.0,8.0,256.0,SAMSUNG
+"realme 13 Pro 5G (Monet Purple, 128 GB)",21999,28999.0,4.46,436.0,8.0,128.0,realme
+"Google Pixel 8 (Obsidian, 128 GB)",49999,75999.0,4.417,1370.0,8.0,128.0,Google
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Silverblue, 512 GB)",141999,21499.0,4.7996,131.0,12.0,512.0,SAMSUNG
+"SAMSUNG Galaxy A15 5G (Blue, 256 GB)",19999,24499.0,4.33,219.0,8.0,256.0,SAMSUNG
+"vivo Y300 5G (Emerald Green, 128 GB)",21999,26999.0,4.41,87.0,8.0,128.0,vivo
+"vivo Y300 5G (Phantom Purple, 128 GB)",21999,26999.0,4.41,87.0,8.0,128.0,vivo
+"POCO X7 5G (Cosmic Silver, 128 GB)",18999,24999.0,4.31,194.0,8.0,128.0,POCO
+"realme 13 Pro 5G (Emerald Green, 128 GB)",21999,28999.0,4.46,436.0,8.0,128.0,realme
+"SAMSUNG Galaxy A16 5G (Gold, 128 GB)",16999,21499.0,4.21,91.0,8.0,128.0,SAMSUNG
+"vivo Y29 5G (Titanium Gold, 256 GB)",18999,25999.0,4.3321,17.0,8.0,256.0,vivo
+"vivo Y29 5G (Diamond Black, 256 GB)",18999,25999.0,4.3321,17.0,8.0,256.0,vivo
+"SAMSUNG Galaxy A14 5G (Black, 128 GB)",22999,21499.0,4.14,301.0,8.0,128.0,SAMSUNG
+"vivo V50 5G (Titanium Grey, 512 GB)",40999,48999.0,4.5165,23.0,12.0,512.0,vivo
+"vivo X200 Pro 5G (Titanium Grey, 512 GB)",94999,101999.0,4.7591,156.0,16.0,512.0,vivo
+"vivo T2x 5G (Glimmer Black, 128 GB)",14280,18999.0,4.44,23708.0,6.0,128.0,vivo
+"Infinix Zero 40 5G (Rock Black, 512 GB)",28999,41999.0,4.21,148.0,12.0,512.0,Infinix
+"Infinix Zero 40 5G (Moving Titanium, 512 GB)",28999,41999.0,4.21,148.0,12.0,512.0,Infinix
+"Infinix Zero 40 5G (Violet Garden, 512 GB)",28999,41999.0,4.21,148.0,12.0,512.0,Infinix
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Black, 512 GB)",129999,141999.0,4.7996,131.0,12.0,512.0,SAMSUNG
+"Google Pixel 9 Pro (Obsidian, 256 GB)",109999,21499.0,4.6299,47.0,16.0,256.0,Google
+"POCO M6 5G (Polaris Green, 256 GB)",13499,15999.0,4.219,1074.0,8.0,256.0,POCO
+"vivo Y29 5G (Titanium Gold, 128 GB)",16999,21999.0,4.3321,17.0,8.0,128.0,vivo
+"vivo V30 5G (Andaman Blue, 128 GB)",29999,38999.0,4.57,695.0,8.0,128.0,vivo
+"vivo X200 5G (Natural Green, 256 GB)",65999,74999.0,4.7532,114.0,12.0,256.0,vivo
+"Google Pixel 9 Pro (Rose Quartz, 256 GB)",109999,21499.0,4.6299,47.0,16.0,256.0,Google
+"POCO X7 Pro 5G (Yellow, 256 GB)",29999,33999.0,4.41,267.0,12.0,256.0,POCO
+"vivo T2x 5G (Aurora Gold, 128 GB)",14999,20999.0,4.477,4341.0,8.0,128.0,vivo
+"OnePlus Nord 4 5G (Oasis Green, 256 GB)",35999,21499.0,4.4323,17.0,12.0,256.0,OnePlus
+"OnePlus 13 (Midnight Ocean, 256 GB)",67985,72999.0,4.517,1.0,12.0,256.0,OnePlus
+"realme GT 6T 5G (Razor Green, 512 GB)",32893,42190.0,4.5822,82.0,12.0,512.0,realme
+"Tecno Pova 6 Neo (Aurora Cloud, 256 GB)",14499,16999.0,4.21,150.0,8.0,256.0,Tecno
+"SAMSUNG Galaxy M15 5G (Stone Grey, 128 GB)",13790,16999.0,4.33,143.0,6.0,128.0,SAMSUNG
+"realme 13 Pro 5G (Monet Purple, 512 GB)",26999,34999.0,4.3654,52.0,12.0,512.0,realme
+"realme 13 Pro 5G (Emerald Green, 256 GB)",23999,30999.0,4.46,436.0,8.0,256.0,realme
+"SAMSUNG Galaxy A16 5G (Blue Black, 128 GB)",15900,21499.0,4.21,91.0,8.0,128.0,SAMSUNG
+"realme 12 Pro+ 5G (Navigator Beige, 256 GB)",22999,35999.0,4.426,3058.0,8.0,256.0,realme
+"SAMSUNG Galaxy S25 Ultra 5G (Titanium Gray, 512 GB)",129999,141999.0,4.7996,131.0,12.0,512.0,SAMSUNG
+"OnePlus 13 (Black Eclipse, 256 GB)",71999,72999.0,4.517,1.0,12.0,256.0,OnePlus
+"realme C65 5G (Speedy Red, 64 GB)",11499,13999.0,4.24,220.0,4.0,64.0,realme
+"realme GT 6T 5G (Razor Green, 256 GB)",29499,37999.0,4.5822,82.0,12.0,256.0,realme
+"realme 12 Pro+ 5G (Explorer Red, 256 GB)",22999,35999.0,4.426,3058.0,8.0,256.0,realme
+"realme 13 Pro 5G (Monet Purple, 256 GB)",23999,30999.0,4.46,436.0,8.0,256.0,realme
+"vivo X200 5G (Cosmos Black, 256 GB)",65999,74999.0,4.7532,114.0,12.0,256.0,vivo
+"realme 13 Pro+ 5G (Monet Purple, 256 GB)",26999,38999.0,4.56,620.0,12.0,256.0,realme
+"realme Narzo N63 4G (Twilight Purple, 64 GB)",8990,9999.0,4.12,84.0,4.0,64.0,realme
+"Motorola e40 (Pink Clay, 64 GB)",10999,21499.0,4.29,7786.0,4.0,64.0,Motorola
+"POCO M6 5G (Galactic Black, 128 GB)",10499,13999.0,4.348,2478.0,6.0,128.0,POCO
+"vivo X200 5G (Cosmos Black, 512 GB)",71999,80999.0,4.8122,18.0,16.0,512.0,vivo
+"Google Pixel 8 (Hazel, 256 GB)",52999,82999.0,4.417,1370.0,8.0,256.0,Google
+"vivo Y29 5G (Titanium Gold, 128 GB)",13999,16499.0,4.42,13.0,4.0,128.0,vivo
+"IQOO Z9S PRO 5G (Flamboyant Orange, 256 GB)",27792,33999.0,4.529,25.0,12.0,256.0,IQOO
+"IQOO Z9 Lite 5G (?Aqua Flow, 128 GB)",10860,14499.0,4.22,104.0,4.0,128.0,IQOO
+"IQOO Z9 Lite 5G (Mocha Brown, 128 GB)",10592,14499.0,4.22,104.0,4.0,128.0,IQOO
+"realme NARZO N65 5G (DEEP GREEN, 128 GB)",10895,13999.0,4.3803,36.0,4.0,128.0,realme
+"vivo V30 Pro 5G (Andaman Blue, 256 GB)",34999,46999.0,4.56,781.0,8.0,256.0,vivo
+"realme NARZO N65 5G (AMBER GOLD, 128 GB)",10747,13999.0,4.3803,36.0,4.0,128.0,realme
+"SAMSUNG Galaxy A05 (Black, 64 GB)",9999,12499.0,4.4424,24.0,4.0,64.0,SAMSUNG
+"IQOO Z9 5G (Brushed Green, 256 GB)",19060,26999.0,4.43,210.0,8.0,256.0,IQOO
+"vivo V30 5G (Andaman Blue, 256 GB)",31449,40999.0,4.57,695.0,8.0,256.0,vivo
+"IQOO Z9 (Brushed Green, 128 GB)",18369,24999.0,4.41,144.0,8.0,128.0,IQOO
+"OPPO Reno13 5G (Ivory White, 256 GB)",39999,43999.0,4.41,251.0,8.0,256.0,OPPO
+"SAMSUNG galaxy M15 5G (Stone Grey, 128 GB)",14309,17999.0,4.196,6.0,8.0,128.0,SAMSUNG
+"vivo Y18 (Space Black, 128 GB)",8499,13999.0,4.11,56.0,4.0,128.0,vivo
+"vivo X200 5G (Natural Green, 512 GB)",71999,80999.0,4.8122,18.0,16.0,512.0,vivo
+"vivo Y18 (Gem Green, 128 GB)",8499,13999.0,4.11,56.0,4.0,128.0,vivo
+"OPPO Reno13 5G (Luminous Blue, 128 GB)",37999,41999.0,4.41,251.0,8.0,128.0,OPPO
+"POCO X7 5G (Cosmic Silver, 256 GB)",20999,27999.0,4.31,194.0,8.0,256.0,POCO
+"vivo Y18 (Space Black, 64 GB)",7999,12999.0,4.11,56.0,4.0,64.0,vivo
+"POCO X7 5G (Yellow, 128 GB)",18999,24999.0,4.31,194.0,8.0,128.0,POCO
+"REDMI Note 13 Pro 5G (Coral Purple, 256 GB)",21999,30999.0,4.334,2774.0,8.0,256.0,REDMI
+"SAMSUNG M15 (Celestial Blue, 128 GB)",11988,15999.0,4.1214,16.0,4.0,128.0,SAMSUNG
+"SAMSUNG M15 (Blue Topaz, 128 GB)",11868,15999.0,4.1214,16.0,4.0,128.0,SAMSUNG
+"vivo Y300 5G (Titanium Silver, 128 GB)",21999,26999.0,4.41,87.0,8.0,128.0,vivo
+"vivo Y18t (Gem Green, 128 GB)",8499,13999.0,4.2112,5.0,4.0,128.0,vivo
+"vivo X80 Pro (Cosmic Black, 256 GB)",42990,86999.0,4.31,198.0,12.0,256.0,vivo
+"realme C65 5G (Glowing Black, 64 GB)",10499,13999.0,4.24,220.0,4.0,64.0,realme
+"vivo Y18 (Gem Green, 64 GB)",9490,12999.0,4.11,56.0,4.0,64.0,vivo
+"SAMSUNG Galaxy A14 5G (Light Green, 128 GB)",22999,21499.0,4.14,301.0,8.0,128.0,SAMSUNG
+"OnePlus N20 SE (BLUE OASIS, 64 GB)",10724,16999.0,4.12,102.0,4.0,64.0,OnePlus
+"POCO F6 5G (Black, 256 GB)",26999,35999.0,4.36,611.0,12.0,256.0,POCO
+"itel A50 (Lime Green, 64 GB)",6211,7399.0,4.3184,12.0,4.0,64.0,itel
+"Google Pixel 7a (Coral, 128 GB)",31999,43999.0,4.126,2593.0,8.0,128.0,Google
+"REDMI Note 14 5G (Mystique White, 128 GB)",19500,22999.0,4.3351,29.0,8.0,128.0,REDMI
+"SAMSUNG Galaxy S23 Plus 5G (Cream, 512 GB)",64999,128999.0,4.5259,38.0,8.0,512.0,SAMSUNG
+"Google Pixel 7a (Snow, 128 GB)",31999,43999.0,4.126,2593.0,8.0,128.0,Google
+"REDMI Note 13 Pro 5G (Midnight Black, 256 GB)",21999,30999.0,4.334,2774.0,8.0,256.0,REDMI
+"POCO X7 Pro 5G (Yellow, 256 GB)",27999,31999.0,4.32,600.0,8.0,256.0,POCO
+"SAMSUNG Galaxy Z Fold5 (Phantom Black, 256 GB)",97999,159999.0,4.65,27.0,12.0,256.0,SAMSUNG
+"realme P1 5G (Peacock Green, 128 GB)",15475,21999.0,4.445,2571.0,8.0,128.0,realme
+"OPPO A3x 5G (Starlight White, 128 GB)",12499,15999.0,4.21,77.0,4.0,128.0,OPPO
+"realme 13 Pro 5G (Emerald Green, 512 GB)",26999,34999.0,4.3654,52.0,12.0,512.0,realme
+"SAMSUNG Galaxy S23 Plus 5G (Cream, 256 GB)",84999,116999.0,4.5259,38.0,8.0,256.0,SAMSUNG
+"IQOO Z9 LITE 5G (Aqua Flow, 128 GB)",11787,15499.0,4.33,139.0,6.0,128.0,IQOO
+"realme P1 5G (Phoenix Red, 128 GB)",15740,21999.0,4.445,2571.0,8.0,128.0,realme
+"SAMSUNG Galaxy A55 5G (Awesome Navy, 128 GB)",34599,43124.0,4.41,106.0,8.0,128.0,SAMSUNG
+"OPPO F27 5G (Emerald Green, 128 GB)",20999,26999.0,4.21,79.0,8.0,128.0,OPPO
+"Nothing Phone (2a) Plus (Community Edition, 256 GB)",29999,31999.0,4.45,382.0,12.0,256.0,Nothing
+"REDMI Note 13 Pro 5G (Midnight Black, 256 GB)",21680,30999.0,4.334,2774.0,8.0,256.0,REDMI
+"SAMSUNG galaxy M15 5G (Celestrial Blue, 128 GB)",12739,16999.0,4.33,143.0,6.0,128.0,SAMSUNG
+"OPPO A3 Pro 5G (Moonlight Purple, 256 GB)",19999,22999.0,4.31,76.0,8.0,256.0,OPPO
+"realme 12 Pro+ 5G (Navigator Beige, 128 GB)",21999,34999.0,4.426,3058.0,8.0,128.0,realme
+"realme 12 Pro+ 5G (Explorer Red, 128 GB)",21999,34999.0,4.426,3058.0,8.0,128.0,realme
+"POCO M6 5G (Galactic Black, 256 GB)",13499,15999.0,4.219,1074.0,8.0,256.0,POCO
+"IQOO Neo9 Pro (Conqueror Black, 128 GB)",32999,39999.0,4.6543,36.0,8.0,128.0,IQOO
+"OnePlus 12 (Flowy Emerald, 512 GB)",61999,69999.0,4.61,127.0,16.0,512.0,OnePlus
+"REDMI Note 13 Pro 5G (Midnight Black, 256 GB)",22499,32999.0,4.39,683.0,12.0,256.0,REDMI
+"OPPO A3x (Ocean Blue, 128 GB)",9999,13999.0,4.2531,38.0,4.0,128.0,OPPO
+"OPPO A3x (Nebula Red, 128 GB)",9999,13999.0,4.2531,38.0,4.0,128.0,OPPO
+"realme 12 Pro+ 5G (Submarine Blue, 256 GB)",22999,35999.0,4.426,3058.0,8.0,256.0,realme
+"IQOO Neo 9 Pro (Fiery Red, 256 GB)",37989,41999.0,4.6181,12.0,8.0,256.0,IQOO
+"realme NARZO 70X 5G (ICE BLUE, 128 GB)",12996,17999.0,4.34,201.0,6.0,128.0,realme
+"OPPO Reno13 5G (Luminous Blue, 256 GB)",39999,43999.0,4.41,251.0,8.0,256.0,OPPO
+"POCO F6 5G (Black, 256 GB)",23999,33999.0,4.31,990.0,8.0,256.0,POCO
+"OnePlus 13 (Arctic Dawn, 256 GB)",67845,72999.0,4.517,1.0,12.0,256.0,OnePlus
+"itel A50C (Sapphire Black, 32 GB)",5690,6199.0,4.1179,5.0,2.0,32.0,itel
+"REDMI Note 13 Pro+ 5G (Fusion White, 512 GB)",28387,37999.0,4.21,931.0,12.0,512.0,REDMI
+"REDMI Note 13 Pro+ 5G (Fusion White, 256 GB)",24999,33999.0,4.317,1561.0,8.0,256.0,REDMI
+"REDMI Note 13 Pro 5G (Arctic White, 128 GB)",19999,28999.0,4.334,2774.0,8.0,128.0,REDMI
+"SAMSUNG Galaxy M15 5G (Blue Topaz, 128 GB)",11646,15999.0,4.2417,26.0,4.0,128.0,SAMSUNG
+"SAMSUNG Galaxy A55 5G (Awesome Navy, 256 GB)",39990,49110.0,4.3406,37.0,12.0,256.0,SAMSUNG
+"vivo Y28s 5G (Vintage Red, 128 GB)",14490,19999.0,4.4861,45.0,6.0,128.0,vivo
+"REDMI Note 13 Pro+ 5G (Fusion White, 256 GB)",23273,33999.0,4.317,1561.0,8.0,256.0,REDMI
+"SAMSUNG Galaxy A55 5G (Awesome Navy, 256 GB)",36999,45999.0,4.41,106.0,8.0,256.0,SAMSUNG
+"vivo V30 5G (Classic Black, 256 GB)",32990,42999.0,4.51,97.0,12.0,256.0,vivo
+"vivo Y28s 5G (Twinkling Purple, 128 GB)",15999,21999.0,4.3321,16.0,8.0,128.0,vivo
+"IQOO Neo9 Pro (Conqueror Black, 256 GB)",39999,41999.0,4.6543,36.0,8.0,256.0,IQOO
+"vivo Y28s 5G (Twinkling Purple, 128 GB)",12999,17999.0,4.324,10.0,4.0,128.0,vivo
+"vivo Y28s 5G (Vintage Red, 128 GB)",15999,21999.0,4.3321,16.0,8.0,128.0,vivo
+"IQOO Neo9 Pro (Fiery Red, 256 GB)",40700,41999.0,4.6543,36.0,8.0,256.0,IQOO
+"REDMI 12 (Jade Black, 128 GB)",9499,14999.0,4.31,5613.0,4.0,128.0,REDMI
+"SAMSUNG galaxy M15 5G (Blue Topaz, 128 GB)",14059,17999.0,4.196,6.0,8.0,128.0,SAMSUNG
+"itel A50 (Misty Black, 64 GB)",6271,7399.0,4.3184,12.0,4.0,64.0,itel
+"REDMI A1 (Light Green, 32 GB)",6190,7999.0,4.21,454.0,2.0,32.0,REDMI
+"REDMI Note 13 Pro 5G (Coral Purple, 256 GB)",21395,32999.0,4.39,683.0,12.0,256.0,REDMI
+"itel A50 (Shimmer Gold, 64 GB)",6450,7399.0,4.3184,12.0,4.0,64.0,itel
+"REDMI 12 (Jade Black, 128 GB)",8990,15999.0,4.273,4367.0,6.0,128.0,REDMI
+"SAMSUNG M15 5G (Celestrial Blue, 128 GB)",11674,15999.0,4.373,5.0,4.0,128.0,SAMSUNG
+"Infinix Note 40 Pro 5G (Racing Grey, 256 GB)",19999,27999.0,4.235,2401.0,8.0,256.0,Infinix
+"POCO M6 5G (Galactic Black, 64 GB)",8499,11999.0,4.21,6927.0,4.0,64.0,POCO
+"SAMSUNG Galaxy A16 5G (Gold, 128 GB)",16290,21499.0,4.21,91.0,8.0,128.0,SAMSUNG
+"REDMI Note 13 Pro 5G (Arctic White, 256 GB)",22499,32999.0,4.39,683.0,12.0,256.0,REDMI
+"OnePlus Nord CE3 5G (Grey Shimmer, 128 GB)",22499,26999.0,4.412,942.0,8.0,128.0,OnePlus
+"SAMSUNG Galaxy Z Flip5 Special Edition (Yellow, 256 GB)",61990,102999.0,4.511,0.0,8.0,256.0,SAMSUNG
+"realme 13 Pro 5G (Monet Gold, 256 GB)",23999,30999.0,4.46,436.0,8.0,256.0,realme
+"vivo V30 5G (Peacock Green, 128 GB)",29945,38999.0,4.57,695.0,8.0,128.0,vivo
+"SAMSUNG Galaxy A14 5G (Black, 128 GB)",15499,21499.0,4.242,1948.0,4.0,128.0,SAMSUNG
+"OPPO A3x 5G (Starlight White, 64 GB)",11499,14999.0,4.21,77.0,4.0,64.0,OPPO
+"SAMSUNG Galaxy S25 5G (Icyblue, 512 GB)",92999,21499.0,4.694,153.0,12.0,512.0,SAMSUNG
+"realme 13 Pro+ 5G (Monet Purple, 256 GB)",25999,36999.0,4.41,1045.0,8.0,256.0,realme
+"REDMI Note 14 5G (Phantom Purple, 128 GB)",18982,22999.0,4.3351,29.0,8.0,128.0,REDMI
+"vivo V30 5G (Peacock Green, 256 GB)",33999,42999.0,4.51,97.0,12.0,256.0,vivo
+"POCO M6 Plus 5G (Misty Lavender, 128 GB)",10999,15999.0,4.227,1710.0,6.0,128.0,POCO
+"REDMI 12 5G (Jade Black, 256 GB)",15999,19999.0,4.238,2237.0,8.0,256.0,REDMI
+"realme P1 Pro 5G (Parrot Blue, 256 GB)",17999,26999.0,4.46,409.0,12.0,256.0,realme
+"SAMSUNG Galaxy A15 5G (Blue Black, 256 GB)",19999,24499.0,4.33,219.0,8.0,256.0,SAMSUNG
+"LAVA Blaze X 5G (Titanium Grey, 128 GB)",14989,16999.0,4.371,9.0,4.0,128.0,LAVA
+"realme P1 Pro 5G (Phoenix Red, 256 GB)",16999,25999.0,4.529,1943.0,8.0,256.0,realme
+"OPPO Find X8 5G (Space Black, 512 GB)",79999,89999.0,4.645,9.0,16.0,512.0,OPPO
+"realme P1 Pro 5G (Phoenix Red, 128 GB)",15999,24999.0,4.529,1943.0,8.0,128.0,realme
+"POCO X6 5G (Snowstorm White, 256 GB)",23999,26999.0,4.311,1054.0,12.0,256.0,POCO
+"POCO M6 Pro 5G (Power Black, 256 GB)",14999,17999.0,4.225,1881.0,8.0,256.0,POCO
+"SAMSUNG A14 5g (Green, Light Green, 128 GB)",12999,20111.0,3.939,0.0,6.0,128.0,SAMSUNG
+"Mi 10T (Cosmic Black, 128 GB)",37999,42999.0,4.13,476.0,8.0,128.0,Mi
+"SAMSUNG Galaxy A15 5G (Blue Black, 128 GB)",16999,21499.0,4.33,219.0,8.0,128.0,SAMSUNG
+"SAMSUNG Galaxy S25 Plus 5G (Silver Shadow, 512 GB)",111999,21499.0,4.832,6.0,12.0,512.0,SAMSUNG
